@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "javier@lete.net",
+      "password": "contra"
+    },
+    {
+      "email": "pepe@perez.net",
+      "password": "pepillo",
+      "id": 2
+    },
+    {
+      "email": "pepito@lopez.net",
+      "password": "contra",
+      "id": 3
+    }
+  ]
+}
