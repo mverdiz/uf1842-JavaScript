@@ -1,0 +1,8 @@
+#calculadora {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#display {
+    grid-column-end: span 4;
+}
